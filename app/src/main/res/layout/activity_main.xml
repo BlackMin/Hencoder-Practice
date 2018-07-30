@@ -16,4 +16,12 @@
         android:text="dashboard"
         android:onClick="goDashboard"/>
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:padding="15dp"
+        android:text="pie"
+        android:onClick="goPie"/>
+
 </LinearLayout>
