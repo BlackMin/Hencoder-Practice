@@ -24,6 +24,34 @@
         <activity
             android:name=".lesson6.PieViewActivity"
             android:screenOrientation="portrait"/>
+
+        <activity
+            android:name=".lesson6.SportsActivity"
+            android:screenOrientation="portrait"/>
+
+        <activity
+            android:name=".lesson6.TipsViewActivity"
+            android:screenOrientation="portrait"/>
+
+        <activity
+            android:name=".lesson6.TextLayoutActivity"
+            android:screenOrientation="portrait"/>
+
+        <activity
+            android:name=".lesson6.TestActivity"
+            android:screenOrientation="portrait"/>
+
+        <activity
+            android:name=".lesson6.Lesson6Activity"
+            android:screenOrientation="portrait"/>
+
+        <activity
+            android:name=".lesson7.Lesson7Activity"
+            android:screenOrientation="portrait"/>
+
+        <activity
+            android:name=".lesson8.Lesson8Activity"
+            android:screenOrientation="portrait"/>
     </application>
 
 </manifest>
