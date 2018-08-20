@@ -156,7 +156,7 @@ public class MaterialEditText extends AppCompatEditText {
     }
 
     /**
-     * EditText原本的 left, top , right, bottom padding
+     * EditText原本的 left, top, right, bottom padding
      * @param left
      * @param top
      * @param right

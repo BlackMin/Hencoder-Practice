@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <com.baymax.android.hencoder.lesson9.TextTagsLayout
+        android:id="@+id/tags_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"/>
+
+    <com.baymax.android.hencoder.lesson9.CircleView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone">
+    </com.baymax.android.hencoder.lesson9.CircleView>
+
+    <FrameLayout
+        android:layout_width="200dp"
+        android:layout_height="300dp"
+        android:background="@color/colorPrimary">
+
+        <com.baymax.android.hencoder.lesson9.SquareImageView
+            android:layout_width="200dp"
+            android:layout_height="300dp"/>
+    </FrameLayout>
+
+
+</LinearLayout>
+

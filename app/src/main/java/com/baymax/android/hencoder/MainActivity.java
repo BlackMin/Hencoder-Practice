@@ -45,6 +45,7 @@ public class MainActivity extends AppCompatActivity {
         list.add(new Lesson("lesson6",6));
         list.add(new Lesson("lesson7",7));
         list.add(new Lesson("lesson8",8));
+        list.add(new Lesson("lesson9",9));
         mLessonAdapter.setList(list);
         mLessonAdapter.notifyDataSetChanged();
     }
